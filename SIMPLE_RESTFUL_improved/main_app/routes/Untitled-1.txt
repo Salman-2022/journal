@@ -1,0 +1,7 @@
+
+task : 
+create a services folder under the main app 
+create a info_service.py 
+    class InfoService()
+        create_name (self,first_name,last_name)
+        return first + ' ' +last_name
